@@ -10,7 +10,7 @@
     <test name="TutorialNinja Tests">
         <classes>
             <!--            <class name="com.tutorialsninja.qa.testcases.Register"/>-->
-            <!--            <class name="com.tutorialsninja.qa.testcases.Login"/>-->
+            <class name="com.tutorialsninja.qa.testcases.Login"/>
             <class name="com.tutorialsninja.qa.testcases.Search"/>
         </classes>
     </test>
